@@ -17,13 +17,13 @@ This project uses an NPM package called "live-server" — it provides a basic lo
 Start by installing dependencies:
 
 ```
-npm install
+pnpm install
 ```
 
 Run the "start" script to start the server:
 
 ```
-npm run start
+pnpm run start
 ```
 
 You should see a confirmation message like this:
